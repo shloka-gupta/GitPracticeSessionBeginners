@@ -3,9 +3,9 @@ Members :
 
 | Name             | My mantra                                                   | Github                                              |
 |------------------|-------------------------------------------------------------|-----------------------------------------------------|  
-| Shloka Gupta     | "Jo hoga dekha jaega"   | [Github](https://github.com/chicken-biryani) |
-| Mrunmayee Jakate | "Kuch soojh nahi raha"  | [Github](https://github.com/mrunmayee9601) |
 | Shloka Gupta     | "Jo hoga dekha jaega"                                       | [Github](https://github.com/chicken-biryani)        |
+| Snehal Lavangare | "Sab moh maya hai"                                          | [Github](https://github.com/Snehal193)              |
+| Mrunmayee Jakate | "Kuch soojh nahi raha"  | [Github](https://github.com/mrunmayee9601) |
 | Shreyas          | "Nothing Here"                                              | [Github](https://github.com/Shrey3009)              |
 | Pratham Mandavkar| "THAT'S WHAT SHE SAID !"                                    | [Github](https://github.com/PrathamOp)                   |
 | Manas Buchade    | "(～￣▽￣)～ (～￣▽￣)～"                                    | [Github](https://github.com/manasb15)               |
