@@ -4,6 +4,7 @@ Members :
 | Name             | My mantra                                                   | Github                                              |
 |------------------|-------------------------------------------------------------|-----------------------------------------------------|  
 | Shloka Gupta     | "Jo hoga dekha jaega"                                       | [Github](https://github.com/chicken-biryani)        |
+| Rahul Pajapati   | "I want more knowledge"                                     | [Github](https://github.com/Lee3060)                |
 | Sushant Yelurkar | "Thik hai Dekh Lengea"                                      | [Github](https://github.com/SushantYelurkar)        |
 |Sumit Mahajan    |" Chalo dekhate hee"    |[Github](https://github.com/sumitmahajan2001)       |
 | Snehal Lavangare | "Sab moh maya hai"                                          | [Github](https://github.com/Snehal193)              |
@@ -16,5 +17,3 @@ Members :
 |Sumit Mahajan     |" Chalo dekhate hee"                                         |[Github](https://github.com/sumitmahajan2001)       |
 | Krupa Shah       | "it is what it is"                                          | [Github](https://github.com/krupas23)               |
 | Shubham karande  | "Sab moh maya hai"                                          | [Github](https://github.com/shubhamkarande13)       |
-
-
