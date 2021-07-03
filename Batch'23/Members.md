@@ -1,9 +1,9 @@
 Members :
 
-
-| Name             | My mantra                                                   | Github                                              |
-|------------------|-------------------------------------------------------------|-----------------------------------------------------|  
-| Shloka Gupta     | "Jo hoga dekha jaega"                                       | [Github](https://github.com/chicken-biryani)        |
+| Name           | My mantra             | Github                                       |
+| -------------- | --------------------- | -------------------------------------------- |
+| Shloka Gupta   | "Jo hoga dekha jaega" | [Github](https://github.com/chicken-biryani) |
+| Yash Kandalkar | "chalta hai yaar"     | [Github](https://github.com/YashKandalkar)   |
 | Jay Parmar       | "yaar kal karte hai"                                        | [Github](https://github.com/jay-2000)               |
 | Akshay Kudtarkar | "Jyada mat soch ho jayega"                                  | [Github](https://github.com/akshay1552/)            |
 | Rahul Pajapati   | "I want more knowledge"                                     | [Github](https://github.com/Lee3060)                |
