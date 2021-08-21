@@ -19,6 +19,10 @@ Members :
 | Krupa Shah       | "it is what it is"                                          | [Github](https://github.com/krupas23)               |
 | Shubham karande  | "Sab moh maya hai"                                          | [Github](https://github.com/shubhamkarande13)       |
 | Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)               |
+
 | radhika          | "dil mange more"                                             |[Github](https://github.com/Radhikachandugade)       |
+
+| Prajna Puthran   | "let me know what changes are needed "                                       |[Github](https://github.com/prajnaputhran772/)               |
+
 | Gaurav Singh     | "ye dil mange more"                                       |[Github](https://github.com/GauravSingh8)               |
 
