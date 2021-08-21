@@ -24,13 +24,8 @@ Members :
 | Atharva Mathure   | "Live life before life leaves you"                                       |[Github](https://github.com/AtharvaMathure)               
 
 | Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)               |
-
+| Kaivalya Londhe   | "Pucha kisine?"                                       |[Github](https://github.com/KaivalyaLondhe)               |
 | Shruti pandey    | "yeh bhe theek hai"                                       |[Github](https://github.com/Shrutipandey10)               |
-
-
 | radhika          | "dil mange more"                                             |[Github](https://github.com/Radhikachandugade)       |
-
 | Prajna Puthran   | "let me know what changes are needed "                                       |[Github](https://github.com/prajnaputhran772/)               |
-
 | Gaurav Singh     | "ye dil mange more"                                       |[Github](https://github.com/GauravSingh8)               |
-
