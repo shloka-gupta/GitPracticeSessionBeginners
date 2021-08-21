@@ -18,4 +18,6 @@ Members :
 | Siddhesh Mungekar| "Just do it"                                                | [Github](https://github.com/MSid01)                 |
 | Krupa Shah       | "it is what it is"                                          | [Github](https://github.com/krupas23)               |
 | Shubham karande  | "Sab moh maya hai"                                          | [Github](https://github.com/shubhamkarande13)       |
-| Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)               |
+| Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)    
+           |
+| Atharva Mathure   | "Live life before life leaves you"                                       |[Github](https://github.com/AtharvaMathure)               
