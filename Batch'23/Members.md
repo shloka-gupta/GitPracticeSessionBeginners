@@ -24,6 +24,7 @@ Members :
 | Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)  |
 | Atharva Mathure   | "Live life before life leaves you"                                       |[Github](https://github.com/AtharvaMathure)|
 | Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)               |
+|Suraj divekar     | "Never give up"                                             |[Github](https://github.com/surajdivekar17)          |
 |Pravin Tale  | "Nhi jay aaj hi"                                       |[Github](https://github.com/PravinTale)               |
 | Pooja Kanawade   | "You See but you don't Observe"                             |[Github](https://github.com/PoojaKanawade)           |
 | Raj Jadhav    | "WE THE PEOPLE OF INDIA"                                       |[Github](https://github.com/FrozenSamurai)               |
@@ -31,5 +32,4 @@ Members :
 | Shruti pandey    | "yeh bhe theek hai"                                       |[Github](https://github.com/Shrutipandey10)               |
 | radhika          | "dil mange more"                                             |[Github](https://github.com/Radhikachandugade)       |
 | Prajna Puthran   | "let me know what changes are needed "                                       |[Github](https://github.com/prajnaputhran772/)               |
-| Gaurav Singh     | "ye dil mange more"                                       |[Github](https://github.com/GauravSingh8)               |
 | Gaurav Singh     | "ye dil mange more"                                       |[Github](https://github.com/GauravSingh8)               |
