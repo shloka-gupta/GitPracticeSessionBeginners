@@ -18,5 +18,19 @@ Members :
 | Siddhesh Mungekar| "Just do it"                                                | [Github](https://github.com/MSid01)                 |
 | Krupa Shah       | "it is what it is"                                          | [Github](https://github.com/krupas23)               |
 | Shubham karande  | "Sab moh maya hai"                                          | [Github](https://github.com/shubhamkarande13)       |
+
+| Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)    
+           |
+| Atharva Mathure   | "Live life before life leaves you"                                       |[Github](https://github.com/AtharvaMathure)               
+
 | Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)               |
+
 | Shruti pandey    | "yeh bhe theek hai"                                       |[Github](https://github.com/Shrutipandey10)               |
+
+
+| radhika          | "dil mange more"                                             |[Github](https://github.com/Radhikachandugade)       |
+
+| Prajna Puthran   | "let me know what changes are needed "                                       |[Github](https://github.com/prajnaputhran772/)               |
+
+| Gaurav Singh     | "ye dil mange more"                                       |[Github](https://github.com/GauravSingh8)               |
+
