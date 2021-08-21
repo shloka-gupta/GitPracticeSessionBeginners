@@ -19,3 +19,4 @@ Members :
 | Krupa Shah       | "it is what it is"                                          | [Github](https://github.com/krupas23)               |
 | Shubham karande  | "Sab moh maya hai"                                          | [Github](https://github.com/shubhamkarande13)       |
 | Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)               |
+|Suraj divekar     | "Never give up"                                             |[Github](https://github.com/surajdivekar17)          |
