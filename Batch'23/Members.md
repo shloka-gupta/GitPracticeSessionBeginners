@@ -24,6 +24,7 @@ Members :
 | Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)  |
 | Atharva Mathure   | "Live life before life leaves you"                                       |[Github](https://github.com/AtharvaMathure)|
 | Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)               |
+| Pooja Kanawade   | "You See but you don't Observe"                             |[Github](https://github.com/PoojaKanawade)           |
 | Raj Jadhav    | "WE THE PEOPLE OF INDIA"                                       |[Github](https://github.com/FrozenSamurai)               |
 | Kaivalya Londhe   | "Pucha kisine?"                                       |[Github](https://github.com/KaivalyaLondhe)               |
 | Shruti pandey    | "yeh bhe theek hai"                                       |[Github](https://github.com/Shrutipandey10)               |
