@@ -16,5 +16,6 @@ Members :
 |Sumit Mahajan     |" Chalo dekhate hee"                                         |[Github](https://github.com/sumitmahajan2001)       |
 | Krupa Shah       | "it is what it is"                                          | [Github](https://github.com/krupas23)               |
 | Shubham karande  | "Sab moh maya hai"                                          | [Github](https://github.com/shubhamkarande13)       |
+|Sushant Yelurkar  | "jo hoga dekh lenge"                                        | [Github](https://github.com/SushantYelurkar)        |
 
 
