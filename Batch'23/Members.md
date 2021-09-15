@@ -24,6 +24,8 @@ Members :
 | Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)  |
 | Atharva Mathure   | "Live life before life leaves you"                                       |[Github](https://github.com/AtharvaMathure)|
 | Maulya Shetty    | "Never stop learning"                                       |[Github](https://github.com/maulya230)               |
+
+| Somesh Shinde    | "Naughty or what?"                                       |[Github](https://github.com/SomeshShinde24)               |
 |Suraj divekar     | "Never give up"                                             |[Github](https://github.com/surajdivekar17)          |
 |Pravin Tale  | "Nhi jay aaj hi"                                       |[Github](https://github.com/PravinTale)               |
 | Pooja Kanawade   | "You See but you don't Observe"                             |[Github](https://github.com/PoojaKanawade)           |
