@@ -1,5 +1,6 @@
 | Name           | My mantra             | Github                                       |
 | -------------- | --------------------- | -------------------------------------------- |
+| Sarvesh        | HEY JUDE              | [Github](https://github.com/AFC03)
 | Sahil Durgude       | dekhte hain           | [Github](https://github.com/sxhil)
 |Shubham         | All is well           |[Github] https://github.com/shubhamjadhav20   |
 |Shloka          | Jo hoga dekha jaega   | [GitHub](https://github.com/chicken-biryani) |
