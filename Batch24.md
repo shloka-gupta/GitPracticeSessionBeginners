@@ -1,3 +1,3 @@
 | Name           | My mantra             | Github                                       |
 | -------------- | --------------------- | -------------------------------------------- |
-|Shloka          | Jo hoga dekha jaega   | [GitHub](https://github.com/chicken-biryani) |
+|Prashant         | Jo hoga dekha jaega   | [GitHub](https://github.com/its_bnfc_walker) |
