@@ -1,4 +1,6 @@
 | Name           | My mantra             | Github                                       |
+| -------------- | --------------------- | -------------------------------------------- |
+| Rushikesh Mane | Hakuna Matata         | [Github] (https://github.com/manerushikesh)    |
 | Vinayak54----- | nothing special------ |[Github](https://github.com/Vinayak54)--------|
 |Shloka          | Jo hoga dekha jaega   | [GitHub](https://github.com/chicken-biryani) |
 |yash    | Jo hoga dekha jaega   | [GitHub](https://github.com/yashgovind23) |
@@ -14,4 +16,3 @@
 |Shloka          | Jo hoga dekha jaega   | [GitHub](https://github.com/chicken-biryani) |
 | Varad Yelamkar | Hope it turns out good | [Github](https://github.com/BubbleeTea)     |
 | Yash Kandalkar | Never Look Back | [GitHub](https://github.com/YashKandalkar/) |
-
