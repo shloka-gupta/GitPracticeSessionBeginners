@@ -1,5 +1,6 @@
 | Name           | My mantra             | Github                                       |
 | -------------- | --------------------- | -------------------------------------------- |
+| Atharva Mathure| Belive in you         | [Github](https://github.com/AtharvaMathure)
 | Rushikesh Mane | Hakuna Matata         | [Github] (https://github.com/manerushikesh)    |
 | Vinayak54----- | nothing special------ |[Github](https://github.com/Vinayak54)--------|
 |Shloka          | Jo hoga dekha jaega   | [GitHub](https://github.com/chicken-biryani) |
