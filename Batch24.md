@@ -1,5 +1,6 @@
 | Name           | My mantra             | Github                                       |
 | -------------- | --------------------- | -------------------------------------------- |
+| Mrunali Chavan | Just do it | [Github](https://github.com/Mrunali122/) |
 | Amey           | xyz------------------ | [GitHub] https://github.com/Remorse-Forever--|
 | Aditya         |  Arrogance demolishes the foofthold of success!|   [GitHub](https://github.com/11adi)         |
 |Sameer          |Trust is everything    | [github](https://github.com/s-ameer) |
@@ -11,3 +12,4 @@
 |Shloka          | Jo hoga dekha jaega   | [GitHub](https://github.com/chicken-biryani) |
 | Varad Yelamkar | Hope it turns out good | [Github](https://github.com/BubbleeTea)     |
 | Yash Kandalkar | Never Look Back | [GitHub](https://github.com/YashKandalkar/) |
+
