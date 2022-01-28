@@ -1,5 +1,6 @@
-| Name           | My mantra             Github                                       |
+| Name           | My mantra            | Github                                       |
 | -------------- | --------------------- | -------------------------------------------- |
+| Chaitanya Revandkar | Never give up | [GitHub](https://github.com/it-b-44-chaitanya-revandkar) |
 |Shreya           | Just do it.          | [GitHub] (https://github.com/Shreya-Patkar)  |
 |GANESH JAYVANT  | BEYOURSELF| [GitHub](https://github.com/ganupadval)                |
 |Sameer          |Trust is everything    | [github](https://github.com/s-ameer) |
