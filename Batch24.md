@@ -1,4 +1,5 @@
 | Name           | My mantra             | Github                                       |
+|Sameer          |Trust is everything    | [github](https://github.com/s-ameer) 
 | -------------- | --------------------- | -------------------------------------------- |
 |Mayoor          |Rule 1: The Doctor lies.|[GitHub](https://github.com/Mayoor10) |
 | Sarvesh        | HEY JUDE              | [Github](https://github.com/AFC03) |
