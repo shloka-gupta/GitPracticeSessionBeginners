@@ -1,10 +1,14 @@
 
+
 | Name           | My mantra             | Github                                       |
 | -------------- | --------------------- | -------------------------------------------- | 
 |Vaibhav | Chalta hai to chalne do | https://github.com/Vaibhav12301 |
 
 | Name           | My mantra                                      | Github                                       |
 | -------------- | ---------------------------------------------- | -------------------------------------------- |
+| Name           | My mantra             | Github                                       |
+| -------------- | --------------------- | -------------------------------------------- |
+| Amey           | xyz------------------ | [GitHub] https://github.com/Remorse-Forever--|
 | Aditya         |  Arrogance demolishes the foofthold of success!|   [GitHub](https://github.com/11adi)         |
 |Sameer          |Trust is everything    | [github](https://github.com/s-ameer) |
 |Pranit Utekar   | Lets GO               | [Github](https://github.com/Pranit-02)      |
