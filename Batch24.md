@@ -1,12 +1,13 @@
 | Name           | My mantra             | Github                                       |
 | -------------- | --------------------- | -------------------------------------------- |
+|Rahul Chavan    | I want more knowledge |[Github](https://github.com/Rahulchavan3/)    |
 |Abhishek Yadav  | Good things awaiting!!!  |  [Github] https://github.com/a6hi157         |
 | prajyot        | "cricket or what"     | [Github](https://github.com/02PRAJYOT)         |          
 |Manas Handore   |"There is No Tommorow" |[Github](https://github.com/Manas-H)   |
 | suraj sahu |Try New Things | [github](https://github.com/surajsahu46)|
 | Atharva Mathure| Belive in you         | [Github](https://github.com/AtharvaMathure)|
 | Rushikesh Mane | Hakuna Matata         | [Github](https://github.com/manerushikesh)    |
-| Vinayak54----- | nothing special------ |[Github](https://github.com/Vinayak54)--------|
+| Vinayak54 | nothing special |[Github](https://github.com/Vinayak54) |
 |Shloka          | Jo hoga dekha jaega   | [GitHub](https://github.com/chicken-biryani) |
 |yash    | Jo hoga dekha jaega   | [GitHub](https://github.com/yashgovind23) |
 | Mrunali Chavan | Just do it | [Github](https://github.com/Mrunali122/) |
