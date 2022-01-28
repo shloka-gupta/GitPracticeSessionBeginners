@@ -1,4 +1,5 @@
 | Name           | My mantra             | Github                                       |
+| Vinayak54----- | nothing special------ |[Github](https://github.com/Vinayak54)--------|
 | -------------- | --------------------- | -------------------------------------------- |
 | Mrunali Chavan | Just do it | [Github](https://github.com/Mrunali122/) |
 | Amey           | xyz------------------ | [GitHub] https://github.com/Remorse-Forever--|
