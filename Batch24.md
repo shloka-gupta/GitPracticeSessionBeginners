@@ -1,13 +1,14 @@
 | Name           | My mantra             | Github                                       |
 | -------------- | --------------------- | -------------------------------------------- |
+|Manas Handore   |"There is No Tommorow" |[Github](https://github.com/Manas-H)   
 | suraj sahu |Try New Things | [github](https://github.com/surajsahu46)|
 | Atharva Mathure| Belive in you         | [Github](https://github.com/AtharvaMathure)
-| Rushikesh Mane | Hakuna Matata         | [Github] (https://github.com/manerushikesh)    |
+| Rushikesh Mane | Hakuna Matata         | [Github](https://github.com/manerushikesh)    |
 | Vinayak54----- | nothing special------ |[Github](https://github.com/Vinayak54)--------|
 |Shloka          | Jo hoga dekha jaega   | [GitHub](https://github.com/chicken-biryani) |
 |yash    | Jo hoga dekha jaega   | [GitHub](https://github.com/yashgovind23) |
 | Mrunali Chavan | Just do it | [Github](https://github.com/Mrunali122/) |
-| Amey           | xyz------------------ | [GitHub] https://github.com/Remorse-Forever--|
+| Amey           | xyz------------------ | [GitHub](https://github.com/Remorse-Forever) |
 | Aditya         |  Arrogance demolishes the foofthold of success!|   [GitHub](https://github.com/11adi)         |
 |Sameer          |Trust is everything    | [github](https://github.com/s-ameer) |
 |Pranit Utekar   | Lets GO               | [Github](https://github.com/Pranit-02)      |
