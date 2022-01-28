@@ -1,5 +1,6 @@
 | Name           | My mantra             | Github                                       |
-| -------------- | ---------------------  | -------------------------------------------- |
+| -------------- | --------------------- | -------------------------------------------- |
+|Prashant         | Jo hoga dekha jaega   | [GitHub](https://github.com/its_bnfc_walker) |
 | Omkar          |Veg biryani is also biryani |[Github](https://github.com/Omkar-2003)  |
 | Chaitanya Revandkar | Never give up | [GitHub](https://github.com/it-b-44-chaitanya-revandkar) |
 |Shreya           | Just do it.          | [GitHub](https://github.com/Shreya-Patkar)  |
