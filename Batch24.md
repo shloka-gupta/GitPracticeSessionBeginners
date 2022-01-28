@@ -1,8 +1,9 @@
-| Name           | My mantra             | Github                                       |
-|----------------|-----------------------|----------------------------------------------|
+| Name           | My mantra             Github                                       |
+| -------------- | --------------------- | -------------------------------------------- |
+|Shreya           | Just do it.          | [GitHub] (https://github.com/Shreya-Patkar)  |
 |GANESH JAYVANT  | BEYOURSELF| [GitHub](https://github.com/ganupadval)                |
 |Sameer          |Trust is everything    | [github](https://github.com/s-ameer) |
-| Adhyatma        Aal is Well!             [GitHub](https://github.com/AdhyatmCodes27) |
+| Adhyatma        |Aal is Well!          |   [GitHub](https://github.com/AdhyatmCodes27) |
 |Rahul Chavan    | I want more knowledge |[Github](https://github.com/Rahulchavan3/)    |
 |Abhishek Yadav  | Good things awaiting!!!  |  [Github](https://github.com/a6hi157)         |
 | prajyot        | "cricket or what"     | [Github](https://github.com/02PRAJYOT)         |          
