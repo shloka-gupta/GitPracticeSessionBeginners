@@ -1,6 +1,7 @@
 | Name           | My mantra             | Github                                       |
 | Vinayak54----- | nothing special------ |[Github](https://github.com/Vinayak54)--------|
-| -------------- | --------------------- | -------------------------------------------- |
+|Shloka          | Jo hoga dekha jaega   | [GitHub](https://github.com/chicken-biryani) |
+|yash    | Jo hoga dekha jaega   | [GitHub](https://github.com/yashgovind23) |
 | Mrunali Chavan | Just do it | [Github](https://github.com/Mrunali122/) |
 | Amey           | xyz------------------ | [GitHub] https://github.com/Remorse-Forever--|
 | Aditya         |  Arrogance demolishes the foofthold of success!|   [GitHub](https://github.com/11adi)         |
