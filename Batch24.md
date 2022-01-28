@@ -1,5 +1,6 @@
 | Name           | My mantra             | Github                                       |
 | -------------- | --------------------- | -------------------------------------------- |
+|Abhishek Yadav  | Good things awaiting!!!  |  [Github] https://github.com/a6hi157         |
 | prajyot        | "cricket or what"     | [Github](https://github.com/02PRAJYOT)         |          
 |Manas Handore   |"There is No Tommorow" |[Github](https://github.com/Manas-H)   |
 | suraj sahu |Try New Things | [github](https://github.com/surajsahu46)|
