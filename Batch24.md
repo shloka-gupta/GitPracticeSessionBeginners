@@ -1,5 +1,7 @@
 | Name           | My mantra             | Github                                       |
-| -------------- | --------------------- | -------------------------------------------- |
+|----------------|-----------------------|----------------------------------------------|
+|GANESH JAYVANT  | BEYOURSELF| [GitHub](https://github.com/ganupadval)                |
+|Sameer          |Trust is everything    | [github](https://github.com/s-ameer) |
 | Adhyatma        Aal is Well!             [GitHub](https://github.com/AdhyatmCodes27) |
 |Rahul Chavan    | I want more knowledge |[Github](https://github.com/Rahulchavan3/)    |
 |Abhishek Yadav  | Good things awaiting!!!  |  [Github](https://github.com/a6hi157)         |
