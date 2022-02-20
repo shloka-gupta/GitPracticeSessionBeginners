@@ -1,6 +1,6 @@
 | Name           | My mantra             | Github                                       |
 | -------------- | --------------------- | -------------------------------------------- |
-|Aryan           |Jo Hona tha ho gaya    [GitHub](https://github.com/its-bnf-cwalker)   |
+|Aryan           |Jo Hona tha ho gaya    |[GitHub](https://github.com/its-bnf-cwalker)   |
 |Prashant         | Jo hoga dekha jaega   | [GitHub](https://github.com/its_bnfc_walker) |
 | Omkar          |Veg biryani is also biryani |[Github](https://github.com/Omkar-2003)  |
 | Chaitanya Revandkar | Never give up | [GitHub](https://github.com/it-b-44-chaitanya-revandkar) |
